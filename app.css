@@ -1,4 +1,10 @@
-.center {
-    max-width: fit-content;
-    margin-inline: auto;
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .container-max-width{
+    max-width: 720px;
+    padding-bottom: 80px;
+    padding-top: 20px;
   }
